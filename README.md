@@ -19,11 +19,8 @@ Access the simulaton on p5.js [here](https://editor.p5js.org/saphiooo/sketches/C
     let height = 600;
     // Velocity of the objects.
     let velocity = 3.0;
-
-   * **Width** and **Height:** define the simulation space.
-   * **Number of Objects:** determines the number of initial bodies.
-   * **Velocity:** sets the average starting speed of each object.
     ```
+    This code sets the number of objects to 100, sets the height and width of the canvas to 600x800, and the velocity of each object to be 3 units/second.
 2. Run the simulation by clicking the Run button in the top right.
 
 ## Credits
