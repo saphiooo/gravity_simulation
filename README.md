@@ -10,6 +10,7 @@ Access the simulaton on p5.js [here](https://editor.p5js.org/saphiooo/sketches/C
    - Number of initial bodies on the canvas.
    - Height and Width of the Canvas, or simulation space.
    - Velocity of the bodies on the canvas.
+   
    For instance,
     ``` js
     // The total number of objects in the simulation.
